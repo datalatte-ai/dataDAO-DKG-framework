@@ -4,7 +4,8 @@ A knowledge mining framework designed for DataDAO members, enabling them to crea
 The knowledge is stored in a hybrid of public & private, so that knowledge buyers can browse through the public profile of the dataDAO members and find the target audience in which satisfies their research, and pay to access the curated & enriched knowledge around the target audience & request for futher data from the dataDAO members in terms of surveys, interview, etc.
 
 ## Diagram & Architecture flow
-<img width="3584" alt="diagram" src="https://github.com/datalatte-ai/dataDAO-DKG-framework/assets/90555973/29413314-4eed-4546-8c76-bd231e1461d4">
+<img width="3584" alt="diagramDKG" src="https://github.com/datalatte-ai/dataDAO-DKG-framework/assets/90555973/65a73842-69b3-446e-a089-3f8d987e9d64">
+
 
 #### Public profile on DKG
 Members mint pseudo-anonymous profiles (Knowledge asset NFTs on DKG) combining on-chain features and off-chain interests, making them discoverable to market researchers.
