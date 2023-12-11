@@ -8,7 +8,7 @@ In the diagram flow
 
 
 ## Milestones & timeline
-### Milestone 1: Knowledge extraction from an interview via LLM into KG data schema :(Opinion, topic, labels)
+### Milestone 1: Knowledge extraction from an interview via LLM into KG data schema:(Opinion, topic, labels)
 #### Timeline: 15th Jan 2024
 
 ### Milestone 2: KA (public,private) publish, access controlled via dataDAO membership NFT
