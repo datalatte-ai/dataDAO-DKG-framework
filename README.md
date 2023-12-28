@@ -17,18 +17,15 @@ ChatGPT then formats these opinions & topic pairs into the data schema of DKG.
 Data owners store their insights (knowledge) in the CommunityKG with the right schema. CommunityKG is monetized and access-controlled for data buyers. DataDAO members can curate content, influencing the quality and weight of opinions. This curation affects the insights' likelihood of use in queries.
 
 ## Milestones & timeline
-### Milestone 1: Knowledge extraction from an interview via LLM into KG data schema:(Opinion, topic, labels)
+### Milestone 1: Detailed specifications 
 #### Timeline: 15th Jan 2024
 
-### Milestone 2: KA (public,private) publish, access controlled via dataDAO membership NFT
+### Milestone 2: Public profile (KAs) publishing & Knowledge extraction pipeline, testnet
 #### Timeline: 15th Feb 2024
 
-### Milestone 3: Community's KAs curation & enrichment
+### Milestone 3: Private knowledge publishing via dataDAO's node
 #### Timeline: 15th March 2024
 
-### Milestone 4: Query &  monetization framework research
-#### Timeline: 15th March 2024
-we are broadening our research to develop a monetization & query framework for CommunityKG. This framework is intented to facilitate data buyers in identifying their target audience through natural language queries, enabling them to access and leverage the private knowledge stored within the CommunityKG. This approach aims to create a seamless and intuitive experience for data buyers, providing them with valuable, targeted insights from our monetized knowledge bank, CommunityKG.
 
 ## Expected Impact:
 Leveraging DKG as the foundational data model and storage mechanism, our DataDAO framework empowers additional dataDAOs to utilize this infrastructure. This approach not only stimulates demand for Knowledge Assets publishing but also fosters a crowdsourced mechanism for populating the DKG. This collaborative effort effectively bridges knowledge gaps within the DKG. 
