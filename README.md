@@ -2,7 +2,7 @@
  streamlined framework for DataDAO members to create and share knowledge about their on-chain activities and opinions, stored in a mix of public and private domains. This allows knowledge seekers to easily identify and access tailored information from selected DataDAO profiles. They can also pay for deeper insights or request additional data through surveys or interviews.
 
 ## Diagram & Architecture flow
-<img width="3584" alt="diagramDKG" src="https://github.com/datalatte-ai/dataDAO-DKG-framework/assets/90555973/65a73842-69b3-446e-a089-3f8d987e9d64">
+
 
 
 ## Milestones & timeline
