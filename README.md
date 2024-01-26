@@ -1,20 +1,9 @@
 # Description
-A knowledge mining framework designed for DataDAO members, enabling them to create, publish, and enrich knowledge surrounding their on-chain behaviors and opinions. This knowledge is stored in a hybrid environment, comprising both public and private knowledge. This structure allows knowledge buyers to browse the public profiles of DataDAO members, aiding them in identifying a target audience that aligns with their research requirements. Upon finding the appropriate audience, they can then pay to access a curated and enriched private knowledge, specific to that group. Additionally, we will provide an option for knowledge buyers to request further data directly from DataDAO members, which could be in the form of surveys, interviews, and other interactive methods.
-
-The knowledge is stored in a hybrid of public & private, so that knowledge buyers can browse through the public profile of the dataDAO members and find the target audience in which satisfies their research, and pay to access the curated & enriched knowledge around the target audience & request for futher data from the dataDAO members in terms of surveys, interview, etc.
+ streamlined framework for DataDAO members to create and share knowledge about their on-chain activities and opinions, stored in a mix of public and private domains. This allows knowledge seekers to easily identify and access tailored information from selected DataDAO profiles. They can also pay for deeper insights or request additional data through surveys or interviews.
 
 ## Diagram & Architecture flow
 <img width="3584" alt="diagramDKG" src="https://github.com/datalatte-ai/dataDAO-DKG-framework/assets/90555973/65a73842-69b3-446e-a089-3f8d987e9d64">
 
-
-#### Public profile on DKG
-Members mint pseudo-anonymous profiles (Knowledge asset NFTs on DKG) combining on-chain features and off-chain interests, making them discoverable to market researchers.
-Profiles are owned and controlled by members, who can modify them as desired.
-#### LLM Interview, knowledge extraction & data schema 
-OpenAI’s API turns into an interviewer to glean further insights from users’ on-chain features. Upon conversation completion, ChatGPT extracts key opinions and relevant topics, ensuring GDPR compliance by omitting personal data.
-ChatGPT then formats these opinions & topic pairs into the data schema of DKG.
-#### CommunityKG & dataDAO curation
-Data owners store their insights (knowledge) in the CommunityKG with the right schema. CommunityKG is monetized and access-controlled for data buyers. DataDAO members can curate content, influencing the quality and weight of opinions. This curation affects the insights' likelihood of use in queries.
 
 ## Milestones & timeline
 ### Milestone 1: Detailed specifications 
